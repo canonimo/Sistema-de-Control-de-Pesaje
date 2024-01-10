@@ -18,6 +18,8 @@ El sistema de control de pesaje es una aplicación de software para Windows 7 o 
 
 El sistema de control de pesaje es una herramienta versátil y segura que puede ayudar a las empresas a mejorar la eficiencia de sus operaciones de pesaje. Sus características lo convierten en una opción ideal para una amplia gama de industrias, incluyendo la agricultura, la industria alimentaria, la logística y la construcción.
 
+### Si desea ver las funcionalidades del sistema, puede ver las demostraciones de los módulos [aquí.](https://github.com/canonimo/Sistema-de-Control-de-Pesaje/tree/30d6acc9de38c2f735ce038a94175b3d995b0d69/videos)
+
 **Ventajas del sistema de control de pesaje:**
 
 - **Seguridad:** El sistema utiliza una base de datos PostgreSQL, que es una base de datos relacional segura y confiable.
